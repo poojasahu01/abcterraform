@@ -1,5 +1,5 @@
-access_key="AKIAV5UI77Q6V3PCBTPC"
-secret_key="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"
+access_key=""
+secret_key=""
 region="us-east-1"
 cidr_block_vpc="172.0.0.0/20"
 vpc_name="DemoVPC"
